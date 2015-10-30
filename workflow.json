@@ -1,0 +1,11 @@
+{
+  "id": "com.commita.alfred.google-chrome-new-window",
+  "name": "Open a new Google Chrome window",
+  "description": "Opens a new Google Chrome window",
+  "category": "Productivity",
+  "author": "Kiyoshi '13k' Murata",
+  "url": "http://opensource.commita.com",
+  "icons": {
+    "icon.png": "icons/google_chrome.png"
+  }
+}
